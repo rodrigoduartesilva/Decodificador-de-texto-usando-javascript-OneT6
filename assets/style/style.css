@@ -94,7 +94,7 @@ textarea:focus, input:focus, select:focus {
     width: 100%;
     height: 90%;
     text-align: center;
-    background: url(./imagens/backgroundLupa.svg) center no-repeat;
+    background: url(../imagens/backgroundLupa.svg) center no-repeat;
     background-size: 250px 250px;
     background-position: inherit;
 }
