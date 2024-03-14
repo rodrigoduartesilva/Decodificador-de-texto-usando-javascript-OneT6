@@ -1,5 +1,6 @@
 body {
     font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
 }
 
 header img {
@@ -24,7 +25,7 @@ textarea {
 
 .container-entrada {
     width: 700px;
-    height: 400px;
+    height: 350px;
     position: absolute;
     left: 20px;
 }
@@ -66,7 +67,7 @@ textarea:focus, input:focus, select:focus {
 
 .container-saida {
     width: 300px;
-    height: 400px;
+    height: 350px;
     position: absolute;
     top: 0;
     right: 0;
@@ -78,7 +79,7 @@ textarea:focus, input:focus, select:focus {
 .container-saida-resultado {
     display: none;
     width: 300px;
-    height: 400px;
+    height: 350px;
     position: absolute;
     top: 0;
     right: 0;
